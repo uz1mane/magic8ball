@@ -1,0 +1,10 @@
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.csprojAssemblyReference.cache
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.Form1.resources
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.Properties.Resources.resources
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.csproj.GenerateResource.cache
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.csproj.CoreCompileInputs.cache
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\bin\Debug\magic8ball.exe.config
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\bin\Debug\magic8ball.exe
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\bin\Debug\magic8ball.pdb
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.exe
+C:\Users\uzimane_\source\repos\magic8ball\magic8ball\obj\Debug\magic8ball.pdb
